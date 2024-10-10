@@ -5,4 +5,5 @@ class AppConstants {
   static const Color primaryColor = Color(0xFF6200EE);
   static const Color secondaryColor = Color(0xFF03DAC6);
   // Add more constants as needed
+  static const String openStreetMapUrl = 'https://api.openstreetmap.org/';
 }
